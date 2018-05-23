@@ -2,5 +2,5 @@
 int main()
 {
 printf("I am learning git-hub3");
-printf("***\n");
+printf("Stars are not required\n");
 }
